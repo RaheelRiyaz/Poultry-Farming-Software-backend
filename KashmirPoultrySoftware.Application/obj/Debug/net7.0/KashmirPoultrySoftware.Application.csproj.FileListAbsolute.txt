@@ -1,0 +1,15 @@
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\bin\Debug\net7.0\KashmirPoultrySoftware.Application.deps.json
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\bin\Debug\net7.0\KashmirPoultrySoftware.Application.dll
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\bin\Debug\net7.0\KashmirPoultrySoftware.Application.pdb
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\KashmirPoultrySoftware.Application.csproj.AssemblyReference.cache
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\KashmirPoultrySoftware.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\KashmirPoultrySoftware.Application.AssemblyInfoInputs.cache
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\KashmirPoultrySoftware.Application.AssemblyInfo.cs
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\KashmirPoultrySoftware.Application.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\KashmirPoultrySoftware.Application.dll
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\refint\KashmirPoultrySoftware.Application.dll
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\KashmirPoultrySoftware.Application.pdb
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\ref\KashmirPoultrySoftware.Application.dll
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\bin\Debug\net7.0\KashmirPoultrySoftware.Domain.dll
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\bin\Debug\net7.0\KashmirPoultrySoftware.Domain.pdb
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Application\obj\Debug\net7.0\KashmirPoultrySoftware.Application.csproj.CopyComplete

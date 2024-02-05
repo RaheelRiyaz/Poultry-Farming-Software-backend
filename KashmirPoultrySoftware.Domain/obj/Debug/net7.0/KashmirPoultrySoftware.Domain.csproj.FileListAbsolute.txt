@@ -1,0 +1,12 @@
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\bin\Debug\net7.0\KashmirPoultrySoftware.Domain.deps.json
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\bin\Debug\net7.0\KashmirPoultrySoftware.Domain.dll
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\bin\Debug\net7.0\KashmirPoultrySoftware.Domain.pdb
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\obj\Debug\net7.0\KashmirPoultrySoftware.Domain.csproj.AssemblyReference.cache
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\obj\Debug\net7.0\KashmirPoultrySoftware.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\obj\Debug\net7.0\KashmirPoultrySoftware.Domain.AssemblyInfoInputs.cache
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\obj\Debug\net7.0\KashmirPoultrySoftware.Domain.AssemblyInfo.cs
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\obj\Debug\net7.0\KashmirPoultrySoftware.Domain.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\obj\Debug\net7.0\KashmirPoultrySoftware.Domain.dll
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\obj\Debug\net7.0\refint\KashmirPoultrySoftware.Domain.dll
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\obj\Debug\net7.0\KashmirPoultrySoftware.Domain.pdb
+D:\DotNetCoreApi\KashmirPoultrySoftware\KashmirPoultrySoftware.Domain\obj\Debug\net7.0\ref\KashmirPoultrySoftware.Domain.dll

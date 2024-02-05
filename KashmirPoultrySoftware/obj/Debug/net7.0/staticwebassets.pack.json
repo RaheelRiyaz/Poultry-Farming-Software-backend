@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\files\\61274f43-1736-49c5-8db8-01598f7254e8cartoon.jpg",
+      "PackagePath": "staticwebassets\\files\\61274f43-1736-49c5-8db8-01598f7254e8cartoon.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\files\\83ce57ca-261c-4169-8f19-733642c13918pofile.jpg",
+      "PackagePath": "staticwebassets\\files\\83ce57ca-261c-4169-8f19-733642c13918pofile.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\files\\88c0e4ac-1979-4e00-8ff7-4265528a8aa2pofile.jpg",
+      "PackagePath": "staticwebassets\\files\\88c0e4ac-1979-4e00-8ff7-4265528a8aa2pofile.jpg"
+    },
+    {
+      "Id": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\files\\f3fb90ea-19a0-4402-a0b7-cec461290490icons8-portfolio-16.png",
+      "PackagePath": "staticwebassets\\files\\f3fb90ea-19a0-4402-a0b7-cec461290490icons8-portfolio-16.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.KashmirPoultrySoftware.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.KashmirPoultrySoftware.Api.props",
+      "PackagePath": "build\\KashmirPoultrySoftware.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.KashmirPoultrySoftware.Api.props",
+      "PackagePath": "buildMultiTargeting\\KashmirPoultrySoftware.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.KashmirPoultrySoftware.Api.props",
+      "PackagePath": "buildTransitive\\KashmirPoultrySoftware.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

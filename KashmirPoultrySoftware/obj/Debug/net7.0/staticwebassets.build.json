@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "AOnmcgLGGR0v3pfMbebORVzDw96Bej1C9CCGC6ccyPA=",
+  "Source": "KashmirPoultrySoftware.Api",
+  "BasePath": "_content/KashmirPoultrySoftware.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KashmirPoultrySoftware.Api\\wwwroot",
+      "Source": "KashmirPoultrySoftware.Api",
+      "ContentRoot": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\",
+      "BasePath": "_content/KashmirPoultrySoftware.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\files\\61274f43-1736-49c5-8db8-01598f7254e8cartoon.jpg",
+      "SourceId": "KashmirPoultrySoftware.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\",
+      "BasePath": "_content/KashmirPoultrySoftware.Api",
+      "RelativePath": "files/61274f43-1736-49c5-8db8-01598f7254e8cartoon.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\61274f43-1736-49c5-8db8-01598f7254e8cartoon.jpg"
+    },
+    {
+      "Identity": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\files\\83ce57ca-261c-4169-8f19-733642c13918pofile.jpg",
+      "SourceId": "KashmirPoultrySoftware.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\",
+      "BasePath": "_content/KashmirPoultrySoftware.Api",
+      "RelativePath": "files/83ce57ca-261c-4169-8f19-733642c13918pofile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\83ce57ca-261c-4169-8f19-733642c13918pofile.jpg"
+    },
+    {
+      "Identity": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\files\\88c0e4ac-1979-4e00-8ff7-4265528a8aa2pofile.jpg",
+      "SourceId": "KashmirPoultrySoftware.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\",
+      "BasePath": "_content/KashmirPoultrySoftware.Api",
+      "RelativePath": "files/88c0e4ac-1979-4e00-8ff7-4265528a8aa2pofile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\88c0e4ac-1979-4e00-8ff7-4265528a8aa2pofile.jpg"
+    },
+    {
+      "Identity": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\files\\f3fb90ea-19a0-4402-a0b7-cec461290490icons8-portfolio-16.png",
+      "SourceId": "KashmirPoultrySoftware.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNetCoreApi\\KashmirPoultrySoftware\\KashmirPoultrySoftware\\wwwroot\\",
+      "BasePath": "_content/KashmirPoultrySoftware.Api",
+      "RelativePath": "files/f3fb90ea-19a0-4402-a0b7-cec461290490icons8-portfolio-16.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\f3fb90ea-19a0-4402-a0b7-cec461290490icons8-portfolio-16.png"
+    }
+  ]
+}
